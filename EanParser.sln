@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EanParser", "EanParser\EanParser.csproj", "{3B6C8FF4-57B4-4679-BE5C-99728385BFCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{083310A0-A58B-4F04-8910-417CE48CBDCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B6C8FF4-57B4-4679-BE5C-99728385BFCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B6C8FF4-57B4-4679-BE5C-99728385BFCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B6C8FF4-57B4-4679-BE5C-99728385BFCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B6C8FF4-57B4-4679-BE5C-99728385BFCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{083310A0-A58B-4F04-8910-417CE48CBDCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{083310A0-A58B-4F04-8910-417CE48CBDCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{083310A0-A58B-4F04-8910-417CE48CBDCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{083310A0-A58B-4F04-8910-417CE48CBDCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AB2C2CE-0312-4790-83EA-BAECDAB7C139}
+	EndGlobalSection
+EndGlobal
